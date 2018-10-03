@@ -1,0 +1,71 @@
+name,release_year,genre_id
+The Gladiator,2000,g_01
+Sully,2016,g_04
+Raiders of the Lost Ark,1981,g_02
+Flags of our Fathers,2006,g_10 
+The Lion King,2010,g_03
+Avatar,2009,g_01
+The King's Speech,2010,g_10
+The Breakfast Club,1985,g_05
+12 Years a Slave,2013,g_10
+V for Vendetta,2005,g_01
+Letters from Iwo Jima,2006,g_17
+The Wolf of Wall Street,2013,g_04
+Shutter Island,2010,g_16
+Dr. Strangelove,1964,g_05
+Guardians of the Galaxy,2014,g_15
+The Rainmaker,1997,g_06
+Million Dollar Baby,2004,g_14
+Inception,2010,g_13
+Taxi Driver,1976,g_06
+The Shawshank Redemption,1994,g_08
+Lincoln,2012,g_10
+Aliens,1986,g_13
+Rocky,1976,g_14
+Fahrenheit 9/11,2004,g_07
+The Bridges of Madison County,1995,g_12
+The Terminal,2004,g_08
+Interstellar,2014,g_13
+Schindler's List,1993,g_17
+ET,1982,g_13
+Django Unchained,2012,g_08
+The Wrestler,2008,g_14
+The Conjuring,2013,g_11
+Pulp Fiction,1994,g_06
+Fight Club,1999,g_08
+Titanic,2001,g_12
+Bowling for Columbine,2002,g_07
+Foxcatcher,2014,g_14
+Jane Eyre,1943,g_12
+Sicko,2007,g_07
+The Godfather,1972,g_06
+Iron Man,2008,g_15
+Good Will Hunting,1997,g_12
+Won't You Be My Neighbor?,2018,g_07
+Bram Stoker's Dracula,1992,g_11
+Reservoir Dogs,1992,g_06
+Wonder Woman,2017,g_15
+The Shining,1980,g_11
+The Big Lebowski,1998,g_05
+The Departed,2006,g_16
+Psycho,1960,g_11
+Black Panther,2018,g_15
+Animal House,1978,g_05
+The Silence of the Lambs,1991,g_16
+The Imitation Game,2014,g_04
+Memento,2000,g_16
+The Jungle Book,2016,g_09
+A Beautiful Mind,2001,g_04
+Dunkirk,2017,g_17
+The Incredibles,2004,g_03
+Mary Poppins,1964,g_09
+Paths of Glory,1957,g_17
+Pirates of the Caribbean,2003,g_02
+Up,2009,g_09
+Big Hero 6,2014,g_03
+The Dark Knight,2008,g_15
+Finding Nemo,2003,g_09
+True Lies,1994,g_02
+The Terminator,1984,g_01
+How to Train Your Dragon,2010,g_03
+Inglorious Basterds,2009,g_17
