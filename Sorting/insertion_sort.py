@@ -1,15 +1,15 @@
-def insertion_sort(array):
-  n = len(array)
+def insertion_sort(a):
+  n = len(a)
   for index in range(1, n):
-    key = array[index]
+    key = a[index]
     position = index - 1
-    while position >= 0 and array[position] > key:
-      array[position + 1] = array[position]
+    while position >= 0 and a[position] > key:
+      a[position + 1] = a[position]
       position = position - 1
-    array[position + 1] = key
-  return array
+    a[position + 1] = key
+  return a
 
-array = [8, 2, 4, 9, 3, 6]
+a = [8, 2, 4, 9, 3, 6]
 print("Input array :", array)
 
 result = insertion_sort(array)
