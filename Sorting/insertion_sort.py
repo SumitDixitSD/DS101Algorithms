@@ -10,8 +10,8 @@ def insertion_sort(a):
   return a
 
 a = [8, 2, 4, 9, 3, 6]
-print("Input array :", array)
+print("Input array :", a)
 
-result = insertion_sort(array)
+result = insertion_sort(a)
 
 print("Sorted list", result)
