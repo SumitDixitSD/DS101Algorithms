@@ -20,7 +20,7 @@ def hire(candidate_list):
     interview_cost = 0
     hiring_cost = 0
 
-    #let us use a dummy candidate 0 and assume that he.she is the best at the start of the hiring process
+    #let us use a dummy candidate 0 and assume that he/she is the best at the start of the hiring process
     best_c = 0
     
     for candidate in candidate_list:
